@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tionimalvi.github.io/sitemap.html.gz
+Sitemap: https://tionimalvi.github.io/app/sitemap.html.gz
+Sitemap: https://tionimalvi.github.io/assets/sitemap.html.gz
+Sitemap: https://tionimalvi.github.io/css/sitemap.html.gz
+Sitemap: https://tionimalvi.github.io/data/sitemap.html.gz
+Sitemap: https://tionimalvi.github.io/includes/sitemap.html.gz
+Sitemap: https://tionimalvi.github.io/item/sitemap.html.gz
+Sitemap: https://tionimalvi.github.io/src/sitemap.html.gz
